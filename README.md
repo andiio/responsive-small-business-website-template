@@ -18,12 +18,12 @@ Simple website template for a small business website
 Pages
 -
 
-> Home
-> Offers
-> References
-> Team
-> Contact
-> News
+ - Home
+ - Offers
+ - References
+ - Team
+ - Contact
+ - News
 
 Version
 -
