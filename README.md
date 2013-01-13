@@ -30,14 +30,6 @@ Version
 
 1.0
 
-Installation
--
-
-1. Download or clone the repo
-2. Unzip
-3. Start your local server
-3. Open index.php in your browser
-
 License
 -
 
