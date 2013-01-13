@@ -1,7 +1,7 @@
 Responsive Small Business Website Template
 =========
 <br>
-Simple website template for a small business website
+Simple bare roots website template for a small business. Styles are based from [Twitter bootstrap][1]. To customize the site edit and download the new styles from the [variables][2] section and replace bootstrap.css.
 
   - Two column layout
   - Responsive design ready
@@ -40,3 +40,7 @@ http://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 Copyright (c) 2011-2012 Andi Dysart, http://andi.io/
+
+
+[1]: http://twitter.github.com/bootstrap/       "Twitter bootstrap"
+[2]: http://twitter.github.com/bootstrap/customize.html#variables "variables"
